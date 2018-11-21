@@ -1,0 +1,160 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1995840949/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1995840949.dir/build.make CMakeFiles/cmTryCompileExec1995840949.dir/build
+make[1]: Entering directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1995840949.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd981 -Werror   -wd981 -o CMakeFiles/cmTryCompileExec1995840949.dir/src.cxx.o -c /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd981'
+make[1]: *** [CMakeFiles/cmTryCompileExec1995840949.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1995840949/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1091632068/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1091632068.dir/build.make CMakeFiles/cmTryCompileExec1091632068.dir/build
+make[1]: Entering directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1091632068.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd2304 -Werror   -wd2304 -o CMakeFiles/cmTryCompileExec1091632068.dir/src.cxx.o -c /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd2304'
+make[1]: *** [CMakeFiles/cmTryCompileExec1091632068.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1091632068/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2740568154/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2740568154.dir/build.make CMakeFiles/cmTryCompileExec2740568154.dir/build
+make[1]: Entering directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2740568154.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_STRICTANSI -Werror   -strict-ansi -o CMakeFiles/cmTryCompileExec2740568154.dir/src.cxx.o -c /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-strict-ansi'
+make[1]: *** [CMakeFiles/cmTryCompileExec2740568154.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2740568154/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Qunusedarguments failed with the following output:
+Change Dir: /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3207823344/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3207823344.dir/build.make CMakeFiles/cmTryCompileExec3207823344.dir/build
+make[1]: Entering directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3207823344.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_Qunusedarguments -Werror   -Qunused-arguments -o CMakeFiles/cmTryCompileExec3207823344.dir/src.cxx.o -c /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Qunused-arguments'
+make[1]: *** [CMakeFiles/cmTryCompileExec3207823344.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec3207823344/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3733147284/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3733147284.dir/build.make CMakeFiles/cmTryCompileExec3733147284.dir/build
+make[1]: Entering directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3733147284.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec3733147284.dir/CheckSymbolExists.cxx.o -c /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec3733147284.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec3733147284/fast] Error 2
+
+File /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec173002227/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec173002227.dir/build.make CMakeFiles/cmTryCompileExec173002227.dir/build
+make[1]: Entering directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec173002227.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec173002227.dir/CheckSymbolExists.cxx.o -c /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec173002227.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec173002227/fast] Error 2
+
+File /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2732046769/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2732046769.dir/build.make CMakeFiles/cmTryCompileExec2732046769.dir/build
+make[1]: Entering directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2732046769.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec2732046769.dir/CheckSymbolExists.cxx.o -c /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec2732046769.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory `/media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2732046769/fast] Error 2
+
+File /media/valuedc/lin/prog/c++/Eigen/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
