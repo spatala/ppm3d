@@ -1,0 +1,13 @@
+-I/media/valuedc/lin/prog/c++/Eigen
+-I/media/valuedc/lin/prog/c++/Eigen/build
+-I/usr/include/qt4
+-I/usr/include/qt4/QtOpenGL
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/usr/include/qt4
+-DQT_OPENGL_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/media/valuedc/lin/prog/c++/Eigen/build/demos/opengl/quaternion_demo.moc
+/media/valuedc/lin/prog/c++/Eigen/demos/opengl/quaternion_demo.h

@@ -1,0 +1,7 @@
+-I/media/valuedc/lin/prog/c++/Eigen
+-I/media/valuedc/lin/prog/c++/Eigen/build
+-I/usr/include/qt4
+-DNDEBUG
+-o
+/media/valuedc/lin/prog/c++/Eigen/build/demos/mandelbrot/mandelbrot.moc
+/media/valuedc/lin/prog/c++/Eigen/demos/mandelbrot/mandelbrot.h
